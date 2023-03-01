@@ -7,7 +7,7 @@ This project is a study guide to the Prework you will need to complete for the b
 - My motivation for this project was to help fellow beginner coders in their bootcamp journey.
 - I built this project to make studying HTML,CSS, and JavaScript a little easier.
 - This study guide will help students in the bootcamp by highlighting key information about HTML, CSS, and JavaScript.
-- I learned that a strong foundation is important and a good sense of organization and time management will be your best friend! But, I also learned how to HTML, CSS, and JavaScript are all connected!
+- I learned that a strong foundation is important and a good sense of organization and time management will be your best friend! But, I also learned how HTML, CSS, and JavaScript are all connected!
 
 
 ## Installation
